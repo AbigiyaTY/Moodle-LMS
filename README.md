@@ -83,7 +83,7 @@ If you find BG LMS helpful, give it a ⭐️ on GitHub and share with your netwo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 * **How do I add a new center?**
 
