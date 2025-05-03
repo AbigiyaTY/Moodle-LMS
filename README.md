@@ -42,8 +42,6 @@
 
 > BG LMS is provided as a self-contained Windows package—no separate PHP, database, or web server installation is required. Simply download, unzip, and start the bundled stack.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Usage <a name="usage"></a>
 
 1. Download the Windows ZIP package from the repository’s **Releases** page.
