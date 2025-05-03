@@ -1,0 +1,41 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:1:{i:7;O:8:"stdClass":18:{s:2:"id";s:1:"2";s:2:"cm";s:1:"7";s:3:"mod";s:3:"url";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"6";s:6:"module";s:2:"22";s:5:"added";s:10:"1746218309";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:6:"indent";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:19:"Brighter Generation";s:10:"customdata";a:2:{s:7:"display";i:4;s:10:"filtericon";b:1;}}}s:12:"sectioncache";a:1:{i:6;O:8:"stdClass":7:{s:2:"id";s:1:"6";s:7:"section";s:1:"1";s:4:"name";s:0:"";s:7:"summary";s:2861:"<div class="elementor-element elementor-element-0198abf elementor-widget elementor-widget-tm-heading" data-id="0198abf" data-element_type="widget" data-widget_type="tm-heading.default">
+<div class="elementor-widget-container">
+<div class="tm-modern-heading">
+<div class="heading-primary-wrap">
+<h2 class="heading-primary elementor-heading-title"><img class="img-fluid" style="float: left;" src="@@PLUGINFILE@@/bglogo-316x137.png" alt="Brighter Generation logo" width="316" height="137"></h2>
+</div>
+<div class="heading-description-wrap">
+<div class="heading-description">
+<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-fbipe-79elbk h-full dark:bg-gray-800">
+<div class="react-scroll-to-bottom--css-fbipe-1n7m0yu">
+<div class="flex flex-col text-sm dark:bg-gray-800">
+<div class="group w-full text-token-text-primary border-b border-black/10 gizmo:border-0 dark:border-gray-900/50 gizmo:dark:border-0 bg-gray-50 gizmo:bg-transparent dark:bg-[#444654] gizmo:dark:bg-transparent" data-testid="conversation-turn-7">
+<div class="p-4 justify-center text-base md:gap-6 md:py-6 m-auto">
+<div class="flex flex-1 gap-4 text-base mx-auto md:gap-6 gizmo:gap-3 gizmo:md:px-5 gizmo:lg:px-1 gizmo:xl:px-5 md:max-w-2xl lg:max-w-[38rem] gizmo:md:max-w-3xl gizmo:lg:max-w-[40rem] gizmo:xl:max-w-[48rem] xl:max-w-3xl }">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 gizmo:w-full md:gap-3 lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div class="min-h-[20px] flex flex-col items-start gap-3 overflow-x-auto whitespace-pre-wrap break-words">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<div class="heading-description-wrap">
+<div class="heading-description">
+<p><a href="https://brightergeneration.info/" target="_blank" rel="noopener">Brighter Generation</a> is a nonprofit organization that provides a virtual and in-person platform for diaspora and global professional volunteers to teach and empower students in Ethiopia, and East Africa. The program provides enrichment courses to disadvantaged high schoolers in all regions of Ethiopia to reach their full potential and address the local challenges in their communities. While teaching the youth essential skills, the platform serves as an international outreach and cultural exchange opportunity for second-generation diaspora and global volunteers.</p>
+<p>If you have a passion for mentoring and wish to use your valuable skills to make a difference, please register to become an instructor or an intern. Instructors and college interns, from the comfort of their homes, will gain unforgettable experiences and life-long friendships.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:6:"BG LMS";s:8:"fullname";s:46:"Brighter Generation Learning Management System";s:6:"format";s:4:"site";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1746218502";}s:7:"version";i:1746218502;}

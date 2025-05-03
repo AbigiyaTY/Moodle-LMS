@@ -1,0 +1,40 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:6:{i:1;O:8:"stdClass":18:{s:2:"id";s:1:"1";s:2:"cm";s:1:"1";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:1:"1";s:6:"module";s:1:"9";s:5:"added";s:10:"1746198922";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:13:"Announcements";s:7:"content";s:133:"<div class="no-overflow"><p>General news and announcements<br><br>Static website with HTML and CSS course will start May 4!</p></div>";s:10:"customdata";a:2:{s:7:"duedate";s:10:"1746563100";s:12:"trackingtype";s:1:"1";}}i:2;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:1:"2";s:3:"mod";s:3:"hvp";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"25";s:5:"added";s:10:"1746204645";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:11:"Class Video";}i:4;O:8:"stdClass":16:{s:2:"id";s:1:"3";s:2:"cm";s:1:"4";s:3:"mod";s:3:"hvp";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"25";s:5:"added";s:10:"1746206517";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:10:"Class Note";}i:3;O:8:"stdClass":16:{s:2:"id";s:1:"2";s:2:"cm";s:1:"3";s:3:"mod";s:3:"hvp";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"25";s:5:"added";s:10:"1746205410";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:4:"Quiz";}i:6;O:8:"stdClass":17:{s:2:"id";s:1:"1";s:2:"cm";s:1:"6";s:3:"mod";s:6:"assign";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:1:"1";s:5:"added";s:10:"1746207761";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:10:"Assignment";s:10:"customdata";a:2:{s:7:"duedate";s:10:"1746997200";s:24:"allowsubmissionsfromdate";s:10:"1746133200";}}i:5;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:1:"5";s:3:"mod";s:3:"url";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"22";s:5:"added";s:10:"1746206853";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"Additional Reference Materials";s:10:"customdata";a:2:{s:7:"display";i:4;s:10:"filtericon";b:1;}}}s:12:"sectioncache";a:3:{i:1;O:8:"stdClass":6:{s:2:"id";s:1:"1";s:7:"section";s:1:"0";s:4:"name";N;s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:2;O:8:"stdClass":7:{s:2:"id";s:1:"2";s:7:"section";s:1:"1";s:4:"name";s:22:"Week 1. Basics of HTML";s:7:"summary";s:2072:"<p>This course introduces you to the core building blocks of the web—<strong data-start="290" data-end="326">HTML (HyperText Markup Language)</strong>. Designed for absolute beginners, this section focuses on understanding the structure and syntax of HTML and how to use tags to create web pages. You will learn how to define headings, paragraphs, lists, links, images, and how to organize content using semantic HTML elements. By the end of this course, you’ll have the foundational skills to build static websites and prepare for styling them with CSS.<br><br></p>
+<p data-start="732" data-end="754" class="">This section includes:</p>
+<p data-start="732" data-end="754" class=""></p>
+<ul data-start="755" data-end="1156">
+<li class="" data-start="755" data-end="830">
+<p data-start="757" data-end="830" class="">🎥 <strong data-start="760" data-end="775">Class Video</strong> – A guided walkthrough of HTML concepts and examples</p>
+</li>
+<li class="" data-start="831" data-end="902">
+<p data-start="833" data-end="902" class="">📝 <strong data-start="836" data-end="850">Class Note</strong> – A downloadable summary of key topics and syntax</p>
+</li>
+<li class="" data-start="903" data-end="1005">
+<p data-start="905" data-end="1005" class="">🔗 <strong data-start="908" data-end="942">Additional Reference Materials</strong> – Links to trusted learning resources for deeper exploration</p>
+</li>
+<li class="" data-start="1006" data-end="1075">
+<p data-start="1008" data-end="1075" class="">📋 <strong data-start="1011" data-end="1025">Assignment</strong> – A practical task to apply what you’ve learned</p>
+</li>
+<li class="" data-start="1076" data-end="1156">
+<p data-start="1078" data-end="1156" class="">❓ <strong data-start="1080" data-end="1088">Quiz</strong> – A short test to check your understanding and reinforce learning</p>
+</li>
+</ul>
+<p data-start="1078" data-end="1156" class=""><br>Use all the resources provided to get hands-on experience and build confidence in creating your own web pages with HTML.</p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}i:4;O:8:"stdClass":8:{s:2:"id";s:1:"4";s:7:"section";s:1:"2";s:4:"name";s:21:"Week 2. Basics of CSS";s:7:"summary";s:2062:"<p data-start="118" data-end="595" class="">In this course, you’ll learn how to bring your HTML pages to life using <strong data-start="209" data-end="241">CSS (Cascading Style Sheets)</strong>. CSS controls the layout, colors, fonts, spacing, and overall look of a webpage. You'll explore the basic syntax of CSS, learn how to apply styles using selectors, and understand the <strong data-start="425" data-end="438">box model</strong>, which forms the foundation of web layout. By the end of this course, you'll be able to style your HTML pages and create visually appealing static websites.</p>
+<p data-start="597" data-end="619" class="">This section includes:</p>
+<ul data-start="620" data-end="1056">
+<li class="" data-start="620" data-end="711">
+<p data-start="622" data-end="711" class="">🎥 <strong data-start="625" data-end="640">Class Video</strong> – A visual explanation of core CSS concepts with live demonstrations</p>
+</li>
+<li class="" data-start="712" data-end="788">
+<p data-start="714" data-end="788" class="">📝 <strong data-start="717" data-end="731">Class Note</strong> – A summary guide covering key CSS topics and examples</p>
+</li>
+<li class="" data-start="789" data-end="897">
+<p data-start="791" data-end="897" class="">🔗 <strong data-start="794" data-end="828">Additional Reference Materials</strong> – Curated links to tutorials and documentation for deeper learning</p>
+</li>
+<li class="" data-start="898" data-end="979">
+<p data-start="900" data-end="979" class="">📋 <strong data-start="903" data-end="917">Assignment</strong> – A hands-on task to practice styling an existing HTML page</p>
+</li>
+<li class="" data-start="980" data-end="1056">
+<p data-start="982" data-end="1056" class="">❓ <strong data-start="984" data-end="992">Quiz</strong> – A short evaluation to test and reinforce your understanding</p>
+</li>
+</ul>
+<p data-start="1058" data-end="1173" class="">Use this course to gain practical styling skills and get one step closer to building professional-looking websites.</p>";s:7:"visible";s:1:"0";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:8:"HTML&CSS";s:8:"fullname";s:32:"Static website with HTML and CSS";s:6:"format";s:11:"remuiformat";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"1";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1746217547";}s:7:"version";i:1746217547;}

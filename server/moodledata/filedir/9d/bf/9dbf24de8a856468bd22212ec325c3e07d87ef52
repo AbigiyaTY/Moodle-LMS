@@ -1,0 +1,17 @@
+username,firstname,lastname,password,email
+student1,Student,1,Student1@1234,s1@example.com
+student2,Student,2,Student2@1234,s2@example.com
+student3,Student,3,Student3@1234,s3@example.com
+student4,Student,4,Student4@1234,s4@example.com
+student5,Student,5,Student5@1234,s5@example.com
+student6,Student,6,Student6@1234,s6@example.com
+student7,Student,7,Student7@1235,s7@example.com
+student8,Student,8,Student8@1236,s8@example.com
+student9,Student,9,Student9@1237,s9@example.com
+student10,Student,10,Student10@1238,s10@example.com
+student11,Student,11,Student11@1239,s11@example.com
+student12,Student,12,Student12@1240,s12@example.com
+student13,Student,13,Student13@1241,s13@example.com
+student14,Student,14,Student14@1242,s14@example.com
+student15,Student,15,Student15@1243,s15@example.com
+student16,Student,16,Student16@1244,s16@example.com

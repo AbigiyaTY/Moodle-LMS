@@ -1,0 +1,4 @@
+username,firstname,lastname,password,email
+teacher1,Teacher,One,Teacher1@1234,t1@example.com
+teacher2,Teacher,Two,Teacher2@1235,t2@example.com
+teacher3,Teacher,Three,Teacher3@1236,t3@example.com
